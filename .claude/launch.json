@@ -4,26 +4,57 @@
     {
       "name": "rozpocet-web",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "02 - projekty/APP Přijmy a výdaje/app", "run", "dev"],
+      "runtimeArgs": [
+        "--prefix",
+        "02 - projekty/APP Přijmy a výdaje/app",
+        "run",
+        "dev"
+      ],
       "port": 5173
     },
     {
       "name": "ai-influencer-studio",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "02 - projekty/APP AI Influencer Studio/app", "run", "dev"],
+      "runtimeArgs": [
+        "--prefix",
+        "02 - projekty/APP AI Influencer Studio/app",
+        "run",
+        "dev"
+      ],
       "port": 5183
     },
     {
       "name": "jidelni-denik",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "02 - projekty/APP Jidelní Deník/app", "run", "dev"],
+      "runtimeArgs": [
+        "--prefix",
+        "02 - projekty/APP Jidelní Deník/app",
+        "run",
+        "dev"
+      ],
       "port": 5185
     },
     {
       "name": "dailyplaner-web",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "02 - projekty/APP DAILYPLANER/app", "run", "dev"],
+      "runtimeArgs": [
+        "--prefix",
+        "02 - projekty/APP DAILYPLANER/app",
+        "run",
+        "dev"
+      ],
       "port": 5187
+    },
+    {
+      "name": "partak-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "02 - projekty/APP AI Kamarad/app",
+        "run",
+        "dev"
+      ],
+      "port": 5189
     }
   ]
 }

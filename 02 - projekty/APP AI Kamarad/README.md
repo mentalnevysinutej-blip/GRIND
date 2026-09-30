@@ -13,4 +13,9 @@ kouč, podpora i notifikátor.
 
 Ústava celého workspace (cíle, pravidla, kontext): [`/CLAUDE.md`](../../CLAUDE.md)
 
-**Stav:** fáze 0 — návrh a technické spiky (avatar na ploše PC + hlas).
+**Stav:** fáze 0: technické spiky.
+- ✅ Spike 1: avatar na ploše, tamagoči, šatník, osobnosti → [`app/`](app/README.md)
+- ⏳ Spike 2: mozek (Claude) + hlas
+
+![Galerie vzhledů](screenshots/galerie.png)
+![Menu péče](screenshots/menu.png)

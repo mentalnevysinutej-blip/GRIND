@@ -34,7 +34,13 @@ Kompletní dokumentace: [`02 - projekty/APP AI Kamarad/`](02%20-%20projekty/APP%
 
 ### Aktuální fáze
 **Fáze 0 → 1: návrh avatara pro PC, zprovoznění, základní features, osobnostní režimy.**
+- ✅ Spike 1 hotový (`APP AI Kamarad/app`): Tauri overlay, blob-tvor (SVG), chůze/házení,
+  tamagoči jádro s testy, šatník + kód avatara, 5 osobností (offline hlášky), proaktivita s limity.
+- ⏳ Spike 2: mozek (Claude přes proxy, osobnosti jako systémové prompty, paměť) + hlas (PTT → STT → TTS).
+
 Potom: e-mail, nákupy, kino, poznámky, vyhledávání a další každodenní skills.
+
+Uživatel testuje na **Windows i macOS**, vývojářské nástroje (Node, Rust) zatím nemá → vždy dávat návody krok za krokem.
 
 ### Nepřekročitelná pravidla projektu
 1. **Etika vztahu:** žádné manipulativní dark patterns. Avatar nikdy trvale neumře,
